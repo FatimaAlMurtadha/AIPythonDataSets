@@ -56,3 +56,4 @@ jobs:
       # 8. Success message
       - name: Pipeline completed
         run: echo "CI pipeline finished successfully!"
+        
