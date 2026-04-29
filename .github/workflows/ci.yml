@@ -45,12 +45,12 @@ jobs:
 
       # 6. Install frontend dependencies
       - name: Install frontend dependencies
-        working-directory: ../frontend
+        working-directory: atmPython/frontend
         run: npm ci
 
       # 7. Build frontend
       - name: Build frontend
-        working-directory: ../frontend
+        working-directory: atmPython/frontend
         run: npm run build
 
       # 8. Success message
