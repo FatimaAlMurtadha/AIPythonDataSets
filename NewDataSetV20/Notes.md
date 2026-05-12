@@ -93,6 +93,18 @@
 ##### 1. Regular hours studied + tutoring sessions + previous GPA == Best positive factors for good final score
 ##### 2. Anxiety + stress + screen time == Worst negative factors on final score
 
+-------------------------------------------------------------------------------------------------------------------------
 
+### DATA STORYTELLING ( Hours studied vs Final score)
+- More hours studied -> higher final score ( strong - positive - consistent relationship)
+- BUT some students study a lot -> less final score (+ the opposite is true) -> ( Normal Variance)
+- High-Performance Zone:
+    1. hours studied ( 8 : 12 hours)
+    2. final score ( 85 : 100 )
+- Low-Performance Zone:
+    1. hours studied ( 0 : 3 hours)
+    2. final score ( 20 : 60 )
+#### 1. Studying is the strongest factor affecting performance.
+#### 2. Studying is not the only factor effecting high final score
 
 
