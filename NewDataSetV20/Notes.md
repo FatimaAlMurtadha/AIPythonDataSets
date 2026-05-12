@@ -125,4 +125,8 @@
 - Distribution is biased towards high scores.
 - There are few weak students.
 
+### DATA STORYTELLING ( Final score by study method "Online , Offline , Hybrid")
+- (OFFLINE) Studying face-to-face tend to achieve better results ( Offline -> higher final score ).
+- (ONLINE) Students still succeed in but may struggle with poor performance ( online -> weaker final score )..
+- (HYBRID) Average performance and results ( hybrid -> medium final score ).
 
