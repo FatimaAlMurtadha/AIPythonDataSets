@@ -120,4 +120,9 @@
 #### 1. Anxiety students clearly get lower scores.
 #### 2. Anxiety may effect final score more than Hours_Studied
 
+### DATA STORYTELLING ( Distribution of final score ) - The level of difficulty of the educational system and the performance of the students as a whole
+- Overall performance is very high ( Most are above 80 - Peak 90 : 100 - Right-skewed ).
+- Distribution is biased towards high scores.
+- There are few weak students.
+
 
